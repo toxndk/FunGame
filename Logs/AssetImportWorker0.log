@@ -1,0 +1,369 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'ko' Physical Memory: 16313 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity/SourceTree/FunGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+1191
+Successfully changed project path to: E:/Unity/SourceTree/FunGame
+E:/Unity/SourceTree/FunGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 36.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path E:/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity/SourceTree/FunGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 SUPER (ID=0x1f06)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.6079
+Initialize mono
+Mono path[0] = 'E:/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'E:/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56572
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000890 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000480 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.659 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.9 MB.
+System memory in use after: 55.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1533.
+Total: 37.700700 ms (FindLiveObjects: 0.130700 ms CreateObjectMapping: 0.028700 ms MarkObjects: 37.477300 ms  DeleteObjects: 0.062400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/00. Title/03. Images/01. TileMap/Field_Water01.png
+  artifactKey: Guid(79468664b8681d84583276c712291351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images/01. TileMap/Field_Water01.png using Guid(79468664b8681d84583276c712291351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a26724c12e2ad9dda575376f26ee3e') in 0.364863 seconds
+  Import took 0.380678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/00. Title/02. Scripts
+  artifactKey: Guid(05bf9d73469ad8a42a535cbd4b3cb8e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/02. Scripts using Guid(05bf9d73469ad8a42a535cbd4b3cb8e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d436fa78a0982445a0b41144c981f1') in 0.005107 seconds
+  Import took 0.007292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/00. Title/03. Images/01. TileMap/Field_Bush01.png
+  artifactKey: Guid(ffe3f9a2051f69f4caf2bac602eeeb27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images/01. TileMap/Field_Bush01.png using Guid(ffe3f9a2051f69f4caf2bac602eeeb27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5014d1ba3a952502e40633ac602b8f') in 0.013864 seconds
+  Import took 0.032448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/00. Title/03. Images/01. TileMap
+  artifactKey: Guid(ac0d24caa7b26aa42b979aaf18934098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images/01. TileMap using Guid(ac0d24caa7b26aa42b979aaf18934098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '363d40796c99f6306ef25f122ef37894') in 0.005375 seconds
+  Import took 0.014110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/00. Title/03. Images
+  artifactKey: Guid(0acfe4f2320bf0b4a86ac83281f99d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images using Guid(0acfe4f2320bf0b4a86ac83281f99d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c2c966195984e8e565314034f959e3') in 0.005832 seconds
+  Import took 0.007896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/00. Title/03. Images/01. TileMap/Field_All.png
+  artifactKey: Guid(850aef3fb7b209e4991fc18526db83ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images/01. TileMap/Field_All.png using Guid(850aef3fb7b209e4991fc18526db83ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eaece65201a4c4a05d552b2e7f3a1ec') in 0.014863 seconds
+  Import took 0.017046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/00. Title/03. Images/01. TileMap/Field_Ground01.png
+  artifactKey: Guid(1fb96e217905e0045b5f5345010296ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images/01. TileMap/Field_Ground01.png using Guid(1fb96e217905e0045b5f5345010296ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198392b41a52290f075cbd6985758ab6') in 0.012649 seconds
+  Import took 0.014503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/00. Title/Scenes
+  artifactKey: Guid(6ac291594d21d1943a482f7accba6bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/Scenes using Guid(6ac291594d21d1943a482f7accba6bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5f95de632c577c9164f80d5e9ba5db') in 0.005054 seconds
+  Import took 0.006744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/00. Title/01. Scenes
+  artifactKey: Guid(58cbc9f881545034fb41c90e5e6262b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/01. Scenes using Guid(58cbc9f881545034fb41c90e5e6262b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2632e027eed3d903784f214c9b87652') in 0.005607 seconds
+  Import took 0.007637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/00. Title/03. Images/01. TileMap/Field_Mountain01.png
+  artifactKey: Guid(9edace5d44dc1f74db851855c1110cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images/01. TileMap/Field_Mountain01.png using Guid(9edace5d44dc1f74db851855c1110cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012d7e278da4758d4ca69cdb7c75eeb7') in 0.013515 seconds
+  Import took 0.015461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.171646 seconds.
+  path: Assets/00. Title/03. Images/01. TileMap/Field_All.png
+  artifactKey: Guid(850aef3fb7b209e4991fc18526db83ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images/01. TileMap/Field_All.png using Guid(850aef3fb7b209e4991fc18526db83ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5a84a2107c02feb327bf10f407240b') in 0.015385 seconds
+  Import took 0.017265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.864017 seconds.
+  path: Assets/00. Title/03. Images/01. TileMap/Field_All.png
+  artifactKey: Guid(850aef3fb7b209e4991fc18526db83ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images/01. TileMap/Field_All.png using Guid(850aef3fb7b209e4991fc18526db83ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3111c43f1c9166c6a0d565f08a4fbf08') in 0.011956 seconds
+  Import took 0.031023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.308147 seconds.
+  path: Assets/00. Title/03. Images/01. TileMap/Field_All.png
+  artifactKey: Guid(850aef3fb7b209e4991fc18526db83ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images/01. TileMap/Field_All.png using Guid(850aef3fb7b209e4991fc18526db83ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4031f0765feb159d45435432221ff9d7') in 0.012148 seconds
+  Import took 0.014264 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000540 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.757 seconds
+Platform modules already initialized, skipping
+Script is not up to date after domain reload: guid(29bbda0803e75b34a9ebd8c1f2c99c80) path("Packages/com.unity.2d.tilemap/Editor/GridPaintPaletteWindowPreferences.cs") state(2)
+Script is not up to date after domain reload: guid(cb5418bb8817a8c4096007d67d6fd8ba) path("Packages/com.unity.2d.tilemap/Editor/GridPaletteBrushes.cs") state(2)
+Script is not up to date after domain reload: guid(c7e47ae35297a95488555fe429032567) path("Packages/com.unity.2d.tilemap/Editor/TileUtility.cs") state(2)
+Script is not up to date after domain reload: guid(cc6f5506f7e1c664a9745a66e050fab5) path("Packages/com.unity.2d.tilemap/Editor/EditorTools/PickingTool.cs") state(2)
+Script is not up to date after domain reload: guid(a84f8a2cae54acb4599de611269e855e) path("Packages/com.unity.2d.tilemap/Editor/SceneViewGridManager.cs") state(2)
+Script is not up to date after domain reload: guid(e61b787c9f6984746a82ecf444056814) path("Packages/com.unity.2d.tilemap/Editor/GridBrushesDropdown.cs") state(2)
+Script is not up to date after domain reload: guid(67ffa6242c6ee9246a64038878f96adc) path("Packages/com.unity.2d.tilemap/Editor/GridSelection.cs") state(2)
+Script is not up to date after domain reload: guid(b3cfa46cb726ab64f94c35306c0d9508) path("Packages/com.unity.2d.tilemap/Editor/GridPalettes.cs") state(2)
+Script is not up to date after domain reload: guid(1407207e0ba5c48f3a24bdbea0fa84b5) path("Packages/com.unity.2d.tilemap/Editor/ObjectCreationMenu/DefaultAssetCreation.cs") state(2)
+Script is not up to date after domain reload: guid(7df3ec98f7c6bd740a979da7da668275) path("Packages/com.unity.2d.tilemap/Tests/Editor/TilemapPackageTests.cs") state(2)
+Script is not up to date after domain reload: guid(3342bc6878604f839b28843c3e8cd81b) path("Packages/com.unity.2d.tilemap/Editor/GridPaletteEditor.cs") state(2)
+Script is not up to date after domain reload: guid(8b5e0f8599da083488da675fc79c5c66) path("Packages/com.unity.2d.tilemap/Editor/GridPaletteUtility.cs") state(2)
+Script is not up to date after domain reload: guid(97de1f11b5a5dbf41baa1b0bc8ab989e) path("Packages/com.unity.2d.tilemap/Editor/GridBrushEditorBase.cs") state(2)
+Script is not up to date after domain reload: guid(6e6ff0d919800e24484d21950e3d851f) path("Packages/com.unity.2d.tilemap/Editor/EditorTools/BoxTool.cs") state(2)
+Script is not up to date after domain reload: guid(1098fc68a178ced428eb7fe625f54179) path("Packages/com.unity.2d.tilemap/Editor/EditorTools/TilemapEditorTool.cs") state(2)
+Script is not up to date after domain reload: guid(85f3a978696fd26438b3df20ad1eb853) path("Packages/com.unity.2d.tilemap/Editor/EditorTools/PaintTool.cs") state(2)
+Script is not up to date after domain reload: guid(b6fc4f71b00f42947b2ff5102dd5609e) path("Packages/com.unity.2d.tilemap/Editor/GridPalettesDropdown.cs") state(2)
+Script is not up to date after domain reload: guid(a714f9a492de26847891e2833d0f9235) path("Packages/com.unity.2d.tilemap/Editor/GridPaintTargetsDropdown.cs") state(2)
+Script is not up to date after domain reload: guid(bd1051621083e784fb548003ae41bf3d) path("Packages/com.unity.2d.tilemap/Editor/TilemapPrefabStageHelper.cs") state(2)
+Script is not up to date after domain reload: guid(38d7d4ae5ba301c48a9c37d530dff736) path("Packages/com.unity.2d.tilemap/Editor/PaintableGrid.cs") state(2)
+Script is not up to date after domain reload: guid(007e8b9701e00aa4b934ca58ee397b03) path("Packages/com.unity.2d.tilemap/Editor/GridSelectionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(241898342fd2d2d478d8d74aff380666) path("Packages/com.unity.2d.tilemap/Editor/CreateTileFromPaletteAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(b870da3ede4ee144d8631c9ef0a3a66c) path("Packages/com.unity.2d.tilemap/Editor/AssemblyInfo.cs") state(2)
+Script is not up to date after domain reload: guid(b33cda1f9ac0ad7419bbe04d9cc4c8a5) path("Packages/com.unity.2d.tilemap/Editor/GridPaintSortingAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(d5952b29970e2144780a7cd7b621f821) path("Packages/com.unity.2d.tilemap/Editor/EditorTools/FillTool.cs") state(2)
+Script is not up to date after domain reload: guid(0de3343905095ab4c9d52addc012a937) path("Packages/com.unity.2d.tilemap/Editor/EditorTools/EraseTool.cs") state(2)
+Script is not up to date after domain reload: guid(9f1e0a9724743a74794256ebe791fd41) path("Packages/com.unity.2d.tilemap/Editor/PaintableSceneViewGrid.cs") state(2)
+Script is not up to date after domain reload: guid(c55f8ee59e712524682edba7c818eb6b) path("Packages/com.unity.2d.tilemap/Editor/GridBrushEditor.cs") state(2)
+Script is not up to date after domain reload: guid(384ea3a769d6ffd44bcc7f03793e3adc) path("Packages/com.unity.2d.tilemap/Editor/GridPaintPaletteClipboard.cs") state(2)
+Script is not up to date after domain reload: guid(b74537feff4831541a8c3bf81913649d) path("Packages/com.unity.2d.tilemap/Editor/GridEditorUtility.cs") state(2)
+Script is not up to date after domain reload: guid(3b0299838696e2c4f9e31bdc0c8757f9) path("Packages/com.unity.2d.tilemap/Editor/TileDragAndDrop.cs") state(2)
+Script is not up to date after domain reload: guid(b65aa392762f2014299ba8fbc21b938a) path("Packages/com.unity.2d.tilemap/Editor/GridPaintingState.cs") state(2)
+Script is not up to date after domain reload: guid(08b339ace3191aa409290fbb8bfe30b9) path("Packages/com.unity.2d.tilemap/Editor/EditorTools/SelectTool.cs") state(2)
+Script is not up to date after domain reload: guid(93344cd78b3de491bbc8a90604acb175) path("Packages/com.unity.2d.tilemap/Editor/ObjectCreationMenu/GameObjectCreation.cs") state(2)
+Script is not up to date after domain reload: guid(3f683d99f24875748a6656966ca9cea0) path("Packages/com.unity.2d.tilemap/Editor/GridPaintPaletteWindow.cs") state(2)
+Script is not up to date after domain reload: guid(77786fcb91a3fcd41a4b836be1f0276c) path("Packages/com.unity.2d.tilemap/Editor/EditorTools/MoveTool.cs") state(2)
+Script is not up to date after domain reload: guid(3fc02dcfcd4e9ed4abdcb443df9146b5) path("Packages/com.unity.2d.tilemap/Editor/TileDragAndDropManager.cs") state(2)
+Script is not up to date after domain reload: guid(f60779a06bec4f14a957237a7206b786) path("Packages/com.unity.2d.tilemap/Editor/GridPaletteAddPopup.cs") state(2)
+Script is not up to date after domain reload: guid(0edd9d84d73c14b4fa94b44acc4c53d1) path("Packages/com.unity.2d.tilemap/Editor/SceneViewOpenTilePaletteHelper.cs") state(2)
+Script is not up to date after domain reload: guid(4009bdfbd908ccf41a101be04ed6567d) path("Packages/com.unity.2d.tilemap/Editor/GridBrush.cs") state(2)
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1123 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.960000 ms (FindLiveObjects: 0.260400 ms CreateObjectMapping: 0.037300 ms MarkObjects: 1.601200 ms  DeleteObjects: 0.059400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000491 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.642 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1163 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.3 MB.
+System memory in use after: 58.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1620.
+Total: 1.473500 ms (FindLiveObjects: 0.146900 ms CreateObjectMapping: 0.027200 ms MarkObjects: 1.260700 ms  DeleteObjects: 0.037700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 672.926954 seconds.
+  path: Assets/00. Title/03. Images/01. TileMap/Field_All.png
+  artifactKey: Guid(850aef3fb7b209e4991fc18526db83ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/03. Images/01. TileMap/Field_All.png using Guid(850aef3fb7b209e4991fc18526db83ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '146f3066ce32af51b05deb60c37aa445') in 0.244921 seconds
+  Import took 0.285766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 173.478069 seconds.
+  path: Assets/00. Title
+  artifactKey: Guid(ac2eb9479b642d1449fae88a79b8b554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title using Guid(ac2eb9479b642d1449fae88a79b8b554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836be9c312ddd5b7faebcec7bc5e671e') in 0.016315 seconds
+  Import took 0.034506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.865089 seconds.
+  path: Assets/00. Title/04. Animation
+  artifactKey: Guid(cd479ab91b963434b983d34a7a39585b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/04. Animation using Guid(cd479ab91b963434b983d34a7a39585b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '865b7955239bb9c494738d94e2fb5a19') in 0.025455 seconds
+  Import took 0.028567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.028846 seconds.
+  path: Assets/00. Title/05. TilePaleetes
+  artifactKey: Guid(a9a140a6354656f49844e0fd54092a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/05. TilePaleetes using Guid(a9a140a6354656f49844e0fd54092a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd608f07c1ee2696a3f559496a5e52c9c') in 0.007117 seconds
+  Import took 0.009329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.756694 seconds.
+  path: Assets/00. Title/05. TilePalettes
+  artifactKey: Guid(a9a140a6354656f49844e0fd54092a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/05. TilePalettes using Guid(a9a140a6354656f49844e0fd54092a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a368e37f5367db062113f0a7835e9339') in 0.007943 seconds
+  Import took 0.022481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.838036 seconds.
+  path: Assets/00. Title/05. TilePalettes/Map1.prefab
+  artifactKey: Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/05. TilePalettes/Map1.prefab using Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c10e59cde6a11d6610372044677c80f') in 0.039962 seconds
+  Import took 0.065858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039214 seconds.
+  path: Assets/00. Title/05. TilePalettes/Map1.prefab
+  artifactKey: Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/05. TilePalettes/Map1.prefab using Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c10e59cde6a11d6610372044677c80f') in 0.004284 seconds
+  Import took 0.050833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.295905 seconds.
+  path: Assets/00. Title/05. TilePalettes/Map1.prefab
+  artifactKey: Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/05. TilePalettes/Map1.prefab using Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '756fd532f6f1fe33b6ec3e0e89c90922') in 0.004365 seconds
+  Import took 0.028633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.631100 seconds.
+  path: Assets/00. Title/05. TilePalettes/Map1.prefab
+  artifactKey: Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/05. TilePalettes/Map1.prefab using Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de49ccd3dd6384c669483074c050978') in 0.003824 seconds
+  Import took 0.013680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.001653 seconds.
+  path: Assets/00. Title/05. TilePalettes/Map1.prefab
+  artifactKey: Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/05. TilePalettes/Map1.prefab using Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6adc6a7fdab96aef31f437c83fad591') in 0.004053 seconds
+  Import took 0.020260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.642700 seconds.
+  path: Assets/00. Title/05. TilePalettes/Map1.prefab
+  artifactKey: Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/05. TilePalettes/Map1.prefab using Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f25ab778800f783c8158ec58a696771') in 0.006506 seconds
+  Import took 0.008539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.774607 seconds.
+  path: Assets/00. Title/05. TilePalettes/MapPalettes.prefab
+  artifactKey: Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/05. TilePalettes/MapPalettes.prefab using Guid(f4f3f5a8b938f07478a52479bcf19adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b86e1fd3afe2cd32fd51848c9c6e5f') in 0.016938 seconds
+  Import took 0.028805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 757.318033 seconds.
+  path: Assets/00. Title/05. TilePalettes/Field_All_5.asset
+  artifactKey: Guid(4f4145bd01e93f144b7e6c410a7e0b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/00. Title/05. TilePalettes/Field_All_5.asset using Guid(4f4145bd01e93f144b7e6c410a7e0b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad14da36a0a9433bb2934959cc01ebb') in 0.079084 seconds
+  Import took 0.098962 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
